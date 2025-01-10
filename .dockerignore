@@ -1,0 +1,22 @@
+# Исключить все временные файлы
+*.pyc
+*.pyo
+__pycache__/
+
+# Исключить локальные настройки
+*.log
+
+# Исключить папки
+books/covers/
+node_modules/
+data/
+results/
+tests/
+
+# Исключить временные или вспомогательные файлы
+*.tmp
+.DS_Store
+.idea/
+.vscode/
+yc
+yc.pub

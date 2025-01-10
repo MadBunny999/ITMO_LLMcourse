@@ -1,0 +1,8 @@
+[theme]
+base="dark"  # Установите тему как тёмную
+primaryColor="#FF4B4B"  # Основной цвет для кнопок (замените на ваш)
+backgroundColor="#1e1e1e"  # Тёмный фон страницы
+secondaryBackgroundColor="#262626"  # Цвет боковой панели и вторичных элементов
+textColor="#ffffff"  # Белый цвет текста
+font="sans serif"  # Шрифт для текста (например, sans serif)
+
